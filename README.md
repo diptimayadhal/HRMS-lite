@@ -8,7 +8,7 @@ This project demonstrates end-to-end full-stack development capability including
 
 ## 🔗 Live Application
 
-Frontend URL: To be updated after deployment
+Frontend URL: https://hrms-lite-bdxfltkdn-diptimayadhals-projects.vercel.app/
 
 Backend API (Swagger Docs): https://hrms-lite-08lb.onrender.com/docs
 
