@@ -10,7 +10,7 @@ This project demonstrates end-to-end full-stack development capability including
 
 Frontend URL: To be updated after deployment
 
-Backend API (Swagger Docs): To be updated after deployment
+Backend API (Swagger Docs): https://hrms-lite-08lb.onrender.com/docs
 
 ---
 
